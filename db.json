@@ -1,0 +1,17 @@
+{
+  "menu": [
+    {
+      "color": "red",
+      "nome": "puglia",
+      "citta": "bari"
+    },
+    {
+      "color": "green",
+      "nome": "campania",
+      "citta": "napoli"
+    }
+  ],
+  "requests": [
+      
+  ]
+}
